@@ -72,7 +72,7 @@ const LeftBar = () => {
           </div>
           <div className="item">
             <img src={Messages} alt="" />
-            <span>Messages</span>
+            <span>Chats</span>
           </div>
         </div>
         <hr />
@@ -80,7 +80,7 @@ const LeftBar = () => {
           <span>Others</span>
           <div className="item">
             <img src={Fund} alt="" />
-            <span>Fundraiser</span>
+            <span>Fundraisers</span>
           </div>
           <div className="item">
             <img src={Tutorials} alt="" />
@@ -88,7 +88,7 @@ const LeftBar = () => {
           </div>
           <div className="item">
             <img src={Courses} alt="" />
-            <span>Courses</span>
+            <span>Our Cources</span>
           </div>
         </div>
       </div>
